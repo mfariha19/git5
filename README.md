@@ -8,7 +8,7 @@ mvn verify -Denv=qa -Dbrowser=ch -Dcucumber.filter.tags="@test"
 - git checkout main
 - git pull origin main
 - git merge feature branch name goes here.
-    - Example: git merge QA-1
+  - Example: git merge QA-1
 - git push origin master
 
 # How fix merge conflict
